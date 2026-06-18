@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Homelab</b>
-  - [Active Directory Practice w/Powershell](https://github.com/j)
+  - [Active Directory Practice w/Powershell](https://github.com/jscrivy)
 - <b>
 
 <h2>📜 Certifications | Degree</h2>

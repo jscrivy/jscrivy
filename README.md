@@ -1,10 +1,15 @@
-<h1>Hello, I'm Johnny! <br/><a href="https://github.com/jscrivy">Comp Sci Student</a>, <a href="https://www.linkedin.com/in/jscrivy/">Retail Professional</a>
+<h1>Hello, I'm Johnny! <br/><a href="https://www.linkedin.com/in/jscrivy/">Comp Sci Student</a>
 
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Homelab</b>
   - [Active Directory Practice w/Powershell](https://github.com/jscrivy)
 - <b>
+
+<h2>🖥️ System Builds</h2>
+
+- <b>[Personal rig and more!](https://github.com/jscrivy/SystemBuilds)</b>
+
 
 <h2>📜 Certifications | Degree</h2>
 
